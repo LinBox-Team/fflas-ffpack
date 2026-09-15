@@ -28,6 +28,8 @@
 #ifndef __FFLASFFPACK_field_rns_double_recint_INL
 #define __FFLASFFPACK_field_rns_double_recint_INL
 
+#include <exception>
+
 #include "fflas-ffpack/fflas/fflas_freduce.h"
 
 namespace FFPACK {
